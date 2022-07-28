@@ -1,0 +1,21 @@
+# Num of elements
+1
+Si
+
+# Preprocessing
+None
+
+# Influence Distance
+3.77118
+
+# Model name
+SW_energy_and_forces.pt
+
+# Return Forces
+False
+
+# Number of Inputs
+4
+
+# Name of descriptor if any
+SymmetryFunction
