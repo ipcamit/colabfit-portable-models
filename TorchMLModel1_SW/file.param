@@ -12,10 +12,10 @@ None
 SW_energy_and_forces.pt
 
 # Return Forces
-False
+true
 
 # Number of Inputs
 4
 
 # Name of descriptor if any
-SymmetryFunction
+None

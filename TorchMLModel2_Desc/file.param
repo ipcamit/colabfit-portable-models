@@ -3,19 +3,19 @@
 Si
 
 # Preprocessing
-None
+Descriptor
 
 # Influence Distance
 3.77118
 
 # Model name
-SW_energy_and_forces.pt
+model.pt
 
 # Return Forces
 False
 
 # Number of Inputs
-4
+1
 
 # Name of descriptor if any
 SymmetryFunction

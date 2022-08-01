@@ -4,7 +4,7 @@ list(APPEND CMAKE_PREFIX_PATH $ENV{KIM_API_CMAKE_PREFIX_DIR})
 find_package(KIM-API-ITEMS 2.2 REQUIRED CONFIG)
 
 kim_api_items_setup_before_project(ITEM_TYPE "portableModel")
-project(TorchML1)
+project(TorchMLModel1_SW)
 kim_api_items_setup_after_project(ITEM_TYPE "portableModel")
 
 add_kim_api_model_library(
