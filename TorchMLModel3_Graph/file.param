@@ -1,0 +1,24 @@
+# Num of elements
+1
+Si
+
+# Preprocessing Number of Conv layers
+Graph
+
+# Cutoff Distance (Infl. dist = cutoff x n_conv_layers) and n_conv_layer
+3.77118
+3
+
+# Model name
+model.pt
+
+# Return Forces
+False
+
+# Number of Inputs (n_conv_layers + other inputs)
+# 3 conv layers  + 1 element embedding
+# TEMP SETTING IT TO 1
+1
+
+# Name of descriptor if any
+None
