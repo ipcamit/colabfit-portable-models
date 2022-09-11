@@ -17,8 +17,7 @@ False
 
 # Number of Inputs (n_conv_layers + other inputs)
 # 3 conv layers  + 1 element embedding
-# TEMP SETTING IT TO 1
-1
+5
 
 # Name of descriptor if any
 None
