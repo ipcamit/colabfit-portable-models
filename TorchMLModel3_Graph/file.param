@@ -6,7 +6,7 @@ Si
 Graph
 
 # Cutoff Distance (Infl. dist = cutoff x n_conv_layers) and n_conv_layer
-3.77118
+3.0
 3
 
 # Model name
@@ -17,7 +17,7 @@ False
 
 # Number of Inputs (n_conv_layers + other inputs)
 # 3 conv layers  + 1 element embedding
-5
+6
 
 # Name of descriptor if any
 None
