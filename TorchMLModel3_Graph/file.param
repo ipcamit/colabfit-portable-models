@@ -10,7 +10,7 @@ Graph
 3
 
 # Model name
-model.pt
+model_exp.pt
 
 # Return Forces
 False

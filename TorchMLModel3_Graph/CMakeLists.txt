@@ -11,5 +11,5 @@ add_kim_api_model_library(
   NAME            ${PROJECT_NAME}
   DRIVER_NAME     "TorchMLModelDriver"
   PARAMETER_FILES "file.param"
-  		  "model.pt"
+                  "model_exp.pt"
   )
