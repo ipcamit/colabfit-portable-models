@@ -11,7 +11,7 @@ cos
 # descriptor width
 51
 
-# Has three-body?
+# 3 body
 True
 
 # number of symmetry funcitons, their name, number of elements, values
