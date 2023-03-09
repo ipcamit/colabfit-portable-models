@@ -11,5 +11,5 @@ add_kim_api_model_library(
   NAME            ${PROJECT_NAME}
   DRIVER_NAME     "TorchMLModelDriver"
   PARAMETER_FILES "file.param"
-  		  "SW_energy_and_forces.pt"
+                  "SW_energy_and_forces.pt"
   )
